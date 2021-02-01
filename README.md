@@ -1,5 +1,7 @@
-# angle_bracket
+# 3D Printed Shelf Parts
 
-made this because i spend hours looking on google and thingiverse for the og file. now can use to make a my shelves.
+made this corner bracket because i spend hours looking on google and thingiverse for the og file. now can use to make  my shelves.
+
+other piece holds parts of shelf together.
 
 :)
